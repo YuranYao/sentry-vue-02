@@ -5,7 +5,7 @@ import './style.css'
 
 const app = createApp(App)
 
-const releaseName = 'sentry-vue@1.0.2'
+const releaseName = 'sentry-vue@1.0.3'
 
 Sentry.init({
     app,
